@@ -1,4 +1,13 @@
+<<<<<<< Updated upstream
 Who is This Course for
 ======================
+=======
+<<<<<<< HEAD
+## AUDIENCE 
+=======
+Who is This Course for
+======================
+>>>>>>> bugfix/signup-form
+>>>>>>> Stashed changes
 
 This course is for anyone who wants to learn Git. 
